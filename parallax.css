@@ -1,0 +1,35 @@
+body {
+  width: 300%;
+}
+
+div {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 300%;
+  height: 100%;
+}
+
+.bg {
+  position: fixed;
+  top: 0;
+  right: 0;
+  background: url("crowd.png");
+  background-size: 100%;
+  background-repeat: repeat-x;
+  z-index: -1;
+}
+
+
+#scarlett {
+  display: block;
+  width: 300px;
+  position: relative;
+  top: 200px;
+  left: 1500px;
+}
+
+/*div > img {
+  display: inline-block;
+  width: 33%;
+}*/
