@@ -15,7 +15,7 @@ div {
   top: 0;
   right: 0;
   background: url("crowd.png");
-  background-size: 100%;
+  background-size: auto 700px;
   background-repeat: repeat-x;
   z-index: -1;
 }
